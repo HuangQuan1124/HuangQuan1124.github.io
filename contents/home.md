@@ -6,7 +6,7 @@
 
 #### 联系方式
 
-Email: hq19971124[at]163.com
+Email: hq19971124@163.com
 
 #### 教育背景
 <!--M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\-->
