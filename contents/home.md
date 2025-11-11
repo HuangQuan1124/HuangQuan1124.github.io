@@ -9,10 +9,10 @@
 Email: hq19971124[at]163.com
 
 #### 教育背景
-#M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-#B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-2022-至今, 中山大学, 信息与通信工程, 博士
-2019-2022, 西安电子科技大学, 信息与通信工程, 硕士
+<!--M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\-->
+<!--B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.-->
+2022-至今, 中山大学, 信息与通信工程, 博士\
+2019-2022, 西安电子科技大学, 信息与通信工程, 硕士\
 2015-2019, 南昌航空大学, 电子信息工程, 学士
 
 #### 研究兴趣
