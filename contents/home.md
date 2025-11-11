@@ -6,7 +6,8 @@
 
 #### 联系方式
 
-Email: hq19971124@163.com
+**Email**: hq19971124@163.com.
+**QQ**: 1743797392.
 
 #### 教育背景
 <!--M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\-->
@@ -17,6 +18,6 @@ Email: hq19971124@163.com
 
 #### 研究兴趣
 <!--Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.\-->
-雷达信号处理, 深度学习
+雷达信号处理,雷达成像,电子对抗, 深度学习。
 
 
