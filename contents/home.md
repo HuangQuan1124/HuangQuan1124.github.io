@@ -1,10 +1,10 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!--[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)-->
 
  中山大学电子与通信工程学院2022级博士研究生，专业为信息与通信工程，研究方向为雷达信号处理.
 
-#### Contact
+#### 联系方式
 
 Email: hq19971124[at]163.com
 
@@ -16,7 +16,7 @@ Email: hq19971124[at]163.com
 2015-2019, 南昌航空大学, 电子信息工程, 学士
 
 #### 研究兴趣
-#Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+<!--Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.\-->
 雷达信号处理, 深度学习
 
 
