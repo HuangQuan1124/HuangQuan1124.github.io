@@ -18,6 +18,6 @@
 
 #### 研究兴趣
 <!--Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.\-->
-雷达信号处理,雷达成像,电子对抗, 深度学习。
+雷达信号处理, 雷达成像, 电子对抗, 深度学习。
 
 
