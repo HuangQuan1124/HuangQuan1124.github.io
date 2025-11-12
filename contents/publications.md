@@ -17,6 +17,7 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 -->
+
 - <strong>Q. Huang</strong> and L. Zhang. 2-D Joint Sparse ISAR Imaging Based on Memory-Augmented 2D-TwISTA-Net With Transfer Learning. <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, vol. 61, no. 5, pp. 14809-14825, Oct. 2025. [[Paper]](https://doi.org/10.1109/TAES.2025.3588486)
 - <strong>Q. Huang</strong>, L. Zhang, S. Wei and J. Duan, CV-Res-ADMM-Net for Sparse Aperture ISAR Imaging, <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, vol. 61, no. 4, pp. 8291-8305, Aug. 2025. [[Paper]](https://doi.org/10.1109/TAES.2025.3544618)
 - <strong>Q. Huang</strong>, L. Zhang, S. Wei and J. Duan, Learned 2D-TwISTA for 2-D Sparse ISAR Imaging, <strong>IEEE Geoscience and Remote Sensing Letters</strong>, vol. 22, pp. 1-5, 2025, Art no. 4006005.[[Paper]](https://doi.org/10.1109/LGRS.2025.3547408) 
@@ -25,7 +26,7 @@
 - <strong>Q. Huang</strong>, S. Wei and L. Zhang, Radar Interferometric Phase Ambiguity Resolution Using Viterbi Algorithm for High-Precision Space Target Positioning, <strong> IEEE Signal Processing Letters</strong>, vol. 30, pp. 1242-1246, 2023.[[Paper]](https://doi.org/10.1109/LSP.2023.3313092) 
 
 #### 专利
-- 张磊,黄全,段佳,周钦全,何超，适用不同采样矩阵的稀疏孔径 ISAR 建模和成像方法、装置及介
-质，2024，已受理，实质审查阶段。
-- 张磊,黄全,吴建新,吴亿锋，一种频移导前干扰抑制方法、系统、装置及存储介质， 2023，已受理，
+- 张磊, 黄全, 段佳, 周钦全, 何超, 适用不同采样矩阵的稀疏孔径 ISAR 建模和成像方法、装置及介
+质, 2024, 已受理, 实质审查阶段。
+- 张磊, 黄全, 吴建新, 吴亿锋, 一种频移导前干扰抑制方法、系统、装置及存储介质, 2023, 已受理，
 实质审查阶段。
