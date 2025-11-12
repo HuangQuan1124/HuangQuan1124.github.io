@@ -11,11 +11,11 @@
 #### 教育背景
 <!--M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\-->
 <!--B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.-->
-2022-至今, 中山大学, &emsp;&emsp;&emsp;&emsp; 信息与通信工程, 博士 （导师：张磊 教授）
+2022.09-2026.06, 中山大学, &emsp;&emsp;&emsp;&ensp;&nbsp; 信息与通信工程, 博士 （导师：张磊 教授）
 
-2019-2022, 西安电子科技大学, 信息与通信工程, 硕士（导师：邢孟道 教授）
+2019.09-2022.06, 西安电子科技大学, 信息与通信工程, 硕士（导师：邢孟道 教授）
 
-2015-2019, 南昌航空大学, &emsp;&emsp; 电子信息工程, &ensp;&nbsp;学士
+2015.09-2019.06, 南昌航空大学, &emsp;&emsp; 电子信息工程, &ensp;&nbsp;学士
 
 #### 研究兴趣
 <!--Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.\-->
