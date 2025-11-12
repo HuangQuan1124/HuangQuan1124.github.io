@@ -1,11 +1,11 @@
 <!--#### Submitted
 -->
-#### 在投
+#### 在投论文
 <!--#- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
 -->
 暂无
 <!--#### Published -->
-#### 已发表
+#### 已发表论文
 <!--
 - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
@@ -23,3 +23,9 @@
 - <strong>Q. Huang</strong>, S. Wei and L. Zhang, Interpretable ADMM-CSNet for interrupted sampling repeater jamming suppression, <strong> Digital Signal Processing</strong>, Volume 156, Part B, Jan. 2025.[[Paper]](https://doi.org/10.1016/j.dsp.2024.104850)
 - <strong>Q. Huang</strong>, S. Wei and L. Zhang, Robust Adaptive Time-Frequency Filtering for Frequency Shift Jamming Suppression, <strong> IEEE Transactions on Aerospace and Electronic Systems</strong>, vol. 59, no. 6, pp. 7963-7976, Dec. 2023. [[Paper]](https://doi.org/10.1109/TAES.2023.3297559) 
 - <strong>Q. Huang</strong>, S. Wei and L. Zhang, Radar Interferometric Phase Ambiguity Resolution Using Viterbi Algorithm for High-Precision Space Target Positioning, <strong> IEEE Signal Processing Letters</strong>, vol. 30, pp. 1242-1246, 2023.[[Paper]](https://doi.org/10.1109/LSP.2023.3313092) 
+
+#### 专利
+- 张磊,黄全,段佳,周钦全,何超，适用不同采样矩阵的稀疏孔径 ISAR 建模和成像方法、装置及介
+质，2024，已受理，实质审查阶段。
+- 张磊,黄全,吴建新,吴亿锋，一种频移导前干扰抑制方法、系统、装置及存储介质， 2023，已受理，
+实质审查阶段。
