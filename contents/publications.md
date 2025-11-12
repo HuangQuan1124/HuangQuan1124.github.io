@@ -1,9 +1,11 @@
 <!--#### Submitted
 -->
-#### 在投论文
+<!--
+#### 在投论文-->
 <!--#- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
 -->
-暂无
+<!--暂无
+-->
 <!--#### Published -->
 #### 已发表论文
 <!--
