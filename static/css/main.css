@@ -109,4 +109,9 @@ section .main-body{
     }
 }
 
+#home {
+    /* padding-bottom: 2rem;*/ /* 例如，将 #home 的底部内边距减小到 2rem */
+    /* 如果你想同时修改顶部内边距，也可以在这里设置 padding-top */
+    padding-top: 2rem; 
+}
 
