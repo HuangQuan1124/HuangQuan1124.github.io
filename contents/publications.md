@@ -28,7 +28,5 @@
 - <strong>Q. Huang</strong>, S. Wei and L. Zhang, Radar Interferometric Phase Ambiguity Resolution Using Viterbi Algorithm for High-Precision Space Target Positioning, <strong> IEEE Signal Processing Letters</strong>, vol. 30, pp. 1242-1246, 2023.[[Paper]](https://doi.org/10.1109/LSP.2023.3313092) 
 
 #### 专利
-- 张磊, 黄全, 段佳, 周钦全, 何超, 适用不同采样矩阵的稀疏孔径 ISAR 建模和成像方法、装置及介
-质, 2024, 已受理, 实质审查阶段。
-- 张磊, 黄全, 吴建新, 吴亿锋, 一种频移导前干扰抑制方法、系统、装置及存储介质, 2023, 已受理，
-实质审查阶段。
+- 张磊, 黄全, 段佳, 周钦全, 何超, 适用不同采样矩阵的稀疏孔径 ISAR 建模和成像方法、装置及介质, 2024, 已受理, 实质审查阶段。
+- 张磊, 黄全, 吴建新, 吴亿锋, 一种频移导前干扰抑制方法、系统、装置及存储介质, 2023, 已受理，实质审查阶段。
