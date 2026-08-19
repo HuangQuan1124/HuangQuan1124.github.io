@@ -19,18 +19,18 @@ sections:
     title: 黄全&ensp;|&ensp;南昌航空大学 信息工程学院（人工智能学院）
     href: '#page-top' # Default to '#<id>' if not specified
   - id: news
-    nav: NEWS
+    nav: 最新动态
     title: 最新动态
     icon: bi-play-btn-fill
   - id: projects
-    nav: PROJECTS
+    nav: 项目经历
     title: 项目经历
     icon: bi-octagon-fill
   - id: publications
-    nav: PUBLICATIONS
+    nav: 学术成果
     title: 学术成果
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
+    nav: 荣誉与奖励
     title: 荣誉与奖励
     icon: bi-award-fill
