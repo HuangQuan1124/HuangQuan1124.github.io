@@ -1,16 +1,22 @@
 
+<!--[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)-->
+#### 个人简介
+本人现为南昌航空大学信息工程学院（人工智能学院）专任教师，专业为信息与通信工程，研究方向为雷达信号处理。
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### 联系方式
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+**Email**: hq19971124@163.com.\
+**QQ**: 1743797392.
 
-#### Contact
+#### 教育背景
+<!--M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\-->
+<!--B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.-->
+2022.09-2026.06, 中山大学, 信息与通信工程, 博士（导师：张磊 教授）\
+2019.09-2022.06, 西安电子科技大学, 信息与通信工程, 硕士（导师：邢孟道 教授）\
+2015.09-2019.06, 南昌航空大学, 电子信息工程, 学士 
 
-Email: user[at]fas.harvard.edu
+#### 研究兴趣
+<!--Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.\-->
+雷达信号处理, 雷达成像, 电子对抗, 深度学习。
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
