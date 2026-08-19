@@ -20,9 +20,9 @@ sections:
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
-    title: PUBLICATIONS
+    title: 学术成果
     icon: bi-file-text-fill
   - id: awards
     nav: AWARDS
-    title: AWARDS
+    title: 荣誉与奖励
     icon: bi-award-fill
