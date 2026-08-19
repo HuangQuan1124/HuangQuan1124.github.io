@@ -5,6 +5,9 @@ backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
   - static/assets/background/background_2.jpg
+  - static/assets/background/background_3.jpg
+  - static/assets/background/background_4.jpg
+  - static/assets/background/background_5.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Quan Huang 2023-2026. All Rights Reserved.'
