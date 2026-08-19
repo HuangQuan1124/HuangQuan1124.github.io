@@ -20,6 +20,14 @@ sections:
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
+    title: 最新动态
+    icon: bi-play-btn-fill
+  - id: publications
+    nav: PUBLICATIONS
+    title: 项目经历
+    icon: bi-octagon-fill
+  - id: publications
+    nav: PUBLICATIONS
     title: 学术成果
     icon: bi-file-text-fill
   - id: awards
