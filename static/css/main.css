@@ -29,7 +29,7 @@ body {
     opacity: 1;
     visibility: visible;
     pointer-events: none;
-    padding-top: 0.4rem;
+    padding-top: 2.4rem;
     transition: opacity 280ms ease, visibility 280ms ease;
 }
 
